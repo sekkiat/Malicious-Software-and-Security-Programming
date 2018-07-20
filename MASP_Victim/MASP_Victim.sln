@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MASP_Victim", "MASP_Victim\MASP_Victim.vbproj", "{AC2A7D06-E3AD-408A-80B3-1A6A7DDA6992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2A7D06-E3AD-408A-80B3-1A6A7DDA6992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2A7D06-E3AD-408A-80B3-1A6A7DDA6992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2A7D06-E3AD-408A-80B3-1A6A7DDA6992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2A7D06-E3AD-408A-80B3-1A6A7DDA6992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

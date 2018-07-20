@@ -1,0 +1,36 @@
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\bin\Debug\MASP_Server.exe.config
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\bin\Debug\MASP_Server.exe
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\bin\Debug\MASP_Server.pdb
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\bin\Debug\MASP_Server.xml
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Desktop.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Listening.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Main.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Resources.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Task.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.vbproj.GenerateResource.Cache
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.exe
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.xml
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.pdb
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.vbprojResolveAssemblyReference.cache
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.key.resources
+C:\Users\Romeo VaVa\Documents\Visual Studio 2017\Projects\MASP_Server\MASP_Server\obj\Debug\MASP_Server.record.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.vbprojResolveAssemblyReference.cache
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Desktop.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Form1.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.key.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Listening.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Main.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Resources.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.record.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.remote.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.Task.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.vbproj.GenerateResource.Cache
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.exe
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.xml
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.pdb
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\bin\Debug\MASP_Server.exe.config
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\bin\Debug\MASP_Server.exe
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\bin\Debug\MASP_Server.pdb
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\bin\Debug\MASP_Server.xml
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.DOS.resources
+C:\Users\Romeo VaVa\Desktop\MASP_Server\MASP_Server\obj\Debug\MASP_Server.cmd.resources

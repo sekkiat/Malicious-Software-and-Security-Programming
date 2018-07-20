@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MASP_Server
+</name>
+</assembly>
+<members>
+<member name="T:MASP_Server.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.close__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.desktop_computer_screen_with_magnifying_glass_and_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.game">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.keyboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.laptop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.microphone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.reload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.source">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.warning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MASP_Server.My.Resources.Resources.webcam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:MASP_Server.Helpers">
+ <summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:MASP_Server.FlatAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:MASP_Server.FlatAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
